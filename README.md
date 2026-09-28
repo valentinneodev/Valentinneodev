@@ -6,4 +6,4 @@
 - 🤔 I’m looking for help with learning Java and Python
 - 📫 How to reach me: About Reddit or Discord
 - 😄 Pronouns: he / him
-- [Flaggenquiz](https://www.valentinneodev.github.io)
+- [Flaggenquiz](https://valentinneodev.github.io)
